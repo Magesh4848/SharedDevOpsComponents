@@ -5,7 +5,7 @@ fullnameOverride: mydrive-user
 replicaCount: 1
 image:
   repository: mydrive-user
-  tag: stable
+  tag: 335
   pullPolicy: IfNotPresent
 imagePullSecrets:
   # Optionally specify an array of imagePullSecrets.
